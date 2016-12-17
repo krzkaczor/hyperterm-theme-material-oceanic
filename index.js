@@ -12,7 +12,7 @@ exports.decorateConfig = (config) => {
       '#C0C5CE',
       '#CDD3DE',
       '#D8DEE9',
-      '#17232d',
+      '#5b7b96',
       '#F99157',
       '#FAC863',
       '#99C794',
